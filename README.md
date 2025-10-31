@@ -108,4 +108,4 @@ Then open your browser and go to:
 
 ## 👩🏻‍💻 Author
 
-Created by **Anna Scribner**, **[Michael Gilbert](https://github.com/mjgilbert20)**, **[Muskan Gupta](https://github.com/gmuskan95)**, and **[Roger Tang](https://github.com/Roger1of1)** during NSC Hack4Impact - we won 1st prize!
+Created by Team RealSeal: **Anna Scribner**, **[Michael Gilbert](https://github.com/mjgilbert20)**, **[Muskan Gupta](https://github.com/gmuskan95)**, and **[Roger Tang](https://github.com/Roger1of1)** during NSC Hack4Impact - we won 1st prize!
